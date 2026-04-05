@@ -21,6 +21,7 @@ I care deeply about the craft — not just making things that work, but making t
 ### 🔨 What I'm Currently Building
 
 - **Vault** — A native iOS portfolio tracker for serious investors. Stocks, crypto, metals, bonds, and real estate in one unified app. Built with SwiftUI, SwiftData, and Supabase. → [try-vault-app.com](https://www.try-vault-app.com/)
+- **SN-CLI** - A developer tool that bridges ServiceNow instances with local development environments. Pull scripts from any instance into a structured GitHub repo, diff and push changes from the terminal, and give any AI tool verified ServiceNow domain knowledge through a benchmarked context file. Built with Node.js. → [join the waitlist: https://tally.so/r/XxELdP]
 
 ---
 
