@@ -1,31 +1,46 @@
 <div align="center">
 
-# Hey, I'm Tariq 👋
+# Hey, I'm Tariq
 
-### Product builder by night. ServiceNow developer by day.
+### I build consumer apps, developer tools, and enterprise workflows.
 
-Based in Jordan 🇯🇴 — building consumer apps and enterprise tools that people actually use.
+Based in Jordan, focused on shipping software that feels clear, useful, and well-crafted.
 
 </div>
 
 ---
 
-### 👨‍💻 Who I Am
+### Who I Am
 
-I'm a ServiceNow developer with a strong product instinct. During the day I build and maintain enterprise platforms on ServiceNow — workflows, portals, and integrations at scale. Outside of that, I design and ship my own products from zero to one, focusing on mobile and web experiences that are fast, clean, and purposeful.
+I'm a ServiceNow developer with a strong product instinct.
 
-I care deeply about the craft — not just making things that work, but making things that feel right.
+By day, I build and maintain enterprise systems on ServiceNow, including workflows, portals, and integrations. Outside of that, I design and ship my own products from zero to one, with a focus on mobile and web experiences that are fast, thoughtful, and genuinely useful.
 
----
-
-### 🔨 What I'm Currently Building
-
-- **Vault** — A native iOS portfolio tracker for serious investors. Stocks, crypto, metals, bonds, and real estate in one unified app. Built with SwiftUI, SwiftData, and Supabase. → [try-vault-app.com](https://www.try-vault-app.com/)
-- **SN-CLI** - A developer tool that bridges ServiceNow instances with local development environments. Pull scripts from any instance into a structured GitHub repo, diff and push changes from the terminal, and give any AI tool verified ServiceNow domain knowledge through a benchmarked context file. Built with Node.js. → [join the waitlist: https://tally.so/r/XxELdP]
+I care about more than just getting something to work. I like building products that feel intentional from the first interaction to the last detail.
 
 ---
 
-### 🛠 Tools I Work With
+### Featured Work
+
+- **Vault**  
+  A native iOS portfolio tracker for serious investors. Track stocks, crypto, metals, bonds, and real estate in one place. Built with SwiftUI, SwiftData, and Supabase.  
+  [try-vault-app.com](https://www.try-vault-app.com/)
+
+- **SN-CLI**  
+  A developer tool for working with ServiceNow in a more local, Git-friendly workflow. Pull scripts from instances, diff changes locally, push updates back, and generate verified context for AI-assisted development. Built with Node.js.  
+  [Join the waitlist](https://tally.so/r/XxELdP)
+
+---
+
+### What I'm Focused On
+
+- Building products that connect strong UX with real utility
+- Creating tools that make development workflows faster and clearer
+- Growing across iOS, web, backend systems, and enterprise platforms
+
+---
+
+### Tools I Work With
 
 **Mobile**
 
@@ -50,7 +65,7 @@ I care deeply about the craft — not just making things that work, but making t
 
 ---
 
-### 📬 Reach Me
+### Reach Me
 
 Got an idea, a question, or just want to talk product?
 
@@ -59,5 +74,5 @@ Got an idea, a question, or just want to talk product?
 ---
 
 <div align="center">
-  <sub>Building in Amman, Jordan 🇯🇴</sub>
+  <sub>Building in Amman, Jordan</sub>
 </div>
